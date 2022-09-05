@@ -7,7 +7,7 @@
  * @source https://arty01238.github.io/leighmagees-bd-theme/
 **/
 
-@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 @import url("https://codedotspectra.github.io/themes/core/settings-icons.css");
 @import url("https://codedotspectra.github.io/themes/core/badges.css");
 @import url("https://codedotspectra.github.io/themes/core/custom-font.css");
@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
     --themeColor1: rgb(187, 150, 230);
     --themeColor2: #7aa1f5;
-    --customFont: 'Helvetica', sans-serif;
+    --customFont: 'Indie+Flower', sans-serif;
     --font-display: var(--customFont);
     --homeImage: url('https://https://arty01238.github.io/leighmagees-bd-theme/home.jpg');
     --homeImageSize: cover;
