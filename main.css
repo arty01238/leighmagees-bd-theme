@@ -1,10 +1,10 @@
 /**
- * @name VanillyNeko
- * @author Leigh Magee
+ * @name LeighMagee
+ * @author VanillyNeko
  * @version 0.0.4
  * @description Description
  * @website https://github.com/arty01238
- * @source https://github.com/arty01238/Neko-s-BD-theme
+ * @source https://arty01238.github.io/leighmagees-bd-theme/
 **/
 
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
@@ -40,12 +40,12 @@
   /* APP BACKGROUND */
     --themeColor1: rgb(187, 150, 230);
     --themeColor2: #7aa1f5;
-    --customFont: 'Pacifico', sans-serif;
+    --customFont: 'Helvetica', sans-serif;
     --font-display: var(--customFont);
-    --homeImage: url('https://media.giphy.com/media/FD6CWy270I8j6/giphy.gif');
+    --homeImage: url('https://https://arty01238.github.io/leighmagees-bd-theme/home.jpg');
     --homeImageSize: cover;
     --backgroundColor: #000000;
-    --backgroundImage: url('https://bd.vanillyneko.com/VNTheme.bg.jpg');
+    --backgroundImage: url('https://animemotivation.com/wp-content/uploads/2018/02/cute-anime-girl.jpg');
     --backgroundPosition: center;
     --backgroundSize: cover;
     --backgroundRepeat: no-repeat;
@@ -55,7 +55,7 @@
     --backgroundName: rgba(0, 0, 0, 0.5); 
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://bd.vanillyneko.com/1.jpg);
+  --home-icon: url(https://https://arty01238.github.io/leighmagees-bd-theme/home.jpg);
   --home-position: center; /* home button icon position [default: center] */
   --home-size: 40px; /* home button icon size [default: 40px] */
 
