@@ -42,7 +42,7 @@
     --themeColor2: #7aa1f5;
     --customFont: 'Indie+Flower', sans-serif;
     --font-display: var(--customFont);
-    --homeImage: url('https://https://arty01238.github.io/leighmagees-bd-theme/home.jpg');
+    --homeImage: url('https://arty01238.github.io/leighmagees-bd-theme/home.jpg');
     --homeImageSize: cover;
     --backgroundColor: #000000;
     --backgroundImage: url('https://animemotivation.com/wp-content/uploads/2018/02/cute-anime-girl.jpg');
@@ -55,7 +55,7 @@
     --backgroundName: rgba(0, 0, 0, 0.5); 
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://https://arty01238.github.io/leighmagees-bd-theme/home.jpg);
+  --home-icon: url(https://arty01238.github.io/leighmagees-bd-theme/home.jpg);
   --home-position: center; /* home button icon position [default: center] */
   --home-size: 40px; /* home button icon size [default: 40px] */
 
